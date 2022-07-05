@@ -4,3 +4,6 @@
 **Aim: locate each character in a licence plate and divide the image up into individual characters**
 
 **NOTE:**
+
+![image](https://user-images.githubusercontent.com/90328373/177276108-0ad80303-f7f3-4b32-a29a-8cab137efb20.png)
+
